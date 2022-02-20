@@ -1,0 +1,30 @@
+Creating a fraction using default constructor:
+Created fraction: 1/1
+Creating a fraction using 2 parameters constructor:
+Enter numerator and denominator (use Enter): 
+1
+2
+Your fraction: 1/2
+Testing sum, subtraction, multiply and divide methods: 
+Enter первую дробь: 
+1
+5
+Your fraction: 1/5
+Enter вторую дробь: 
+2
+3
+Your fraction: 2/3
+Sum of your fractions using two methods:
+Sum using two parameters: 13/15
+Sum using one parameter: 13/15
+Subtraction of your fractions using two methods:
+Subtraction using two parameters: -7/15
+Subtraction using one parameter: -7/15
+Multiplication of your fractions using two methods:
+Multiplication using two parameters: 2/15
+Multiplication using one parameter: 2/15
+Divide of your fractions using two methods:
+Divide using two parameters: 3/10
+Divide using one parameter: 3/10
+
+Process finished with exit code 0
